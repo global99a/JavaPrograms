@@ -1,0 +1,24 @@
+class FindMax{
+	public static void main(String[] args){
+	int n=76583;
+	int r,fmax=0,smax;
+
+	while(n>0){
+	r=n%10;
+	n=n/10;
+	if(rem>fmax)
+         {
+	 fmax=rem;
+
+	}
+        else{
+	smax=fmax;
+	}
+      }
+}
+}
+
+
+	
+        
+	
